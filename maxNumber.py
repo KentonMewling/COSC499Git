@@ -1,4 +1,5 @@
 #MaxNumberProgram
+import unittest
 
 def maxNumber(x,y):
     if(x>y):
@@ -13,6 +14,11 @@ def minNumber(x,y):
     else:
         return x
 
-print(maxNumber(2,6))
-print(minNumber(2,6))
+class Tests(unittest.TestCase):
+    def test(self):  #method that tests the function 
+        self.assertEqual(minNumber(4,-2),-2) #testing minNumber function
+
+if __name__ == '__main__':
+    unittest.main()
+
 
