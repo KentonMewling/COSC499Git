@@ -8,7 +8,7 @@ Individual Github Exercise for COSC 499
 Python 3.10.7
 
 
-#Functions
+# Functions
 maxNumber()
     - will return the bigger number of two different numbers
    
