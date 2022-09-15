@@ -11,12 +11,12 @@ Individual Github Exercise for COSC 499
 
 # Functions
 maxNumber(x,y)
-    * will return the bigger number of two different numbers
-    * To use, add: 
-      $ print(maxNumber(x,y) 
-            * where x and y are the two numbers you want to compare. 
-    * Select run in the top right corner if you are on VS code
-    * program will run and determine the correct number
+* will return the bigger number of two different numbers
+* To use, add: 
+$ print(maxNumber(x,y) 
+* where x and y are the two numbers you want to compare. 
+* Select run in the top right corner if you are on VS code
+* program will run and determine the correct number
     
 minNumber(x,y)
     * will return the smaller number of two different numbers
