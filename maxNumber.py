@@ -8,6 +8,13 @@ def maxNumber(x,y):
     else:
         return y
 
-
-print(maxNumber(2,6))
+#Will determine the middle number of three different numbers
+def middleNumber(x,y,z):
+    if(x>y and z>x):
+        return x
+    elif(y>x and z>y):
+        return y
+    else:
+        return z
+print(middleNumber(2,6, 8))
 
