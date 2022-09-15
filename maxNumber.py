@@ -5,7 +5,8 @@ def maxNumber(x,y):
         return x
     else:
         return y
-
+        
+#Program for returning the smallest number
 def minNumber(x,y):
     if(x>y):
         return y
