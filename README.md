@@ -9,12 +9,12 @@ Python 3.10.7
 
 
 # Functions
-maxNumber()
+maxNumber(x,y)
     - will return the bigger number of two different numbers
     
-minNumber()
+minNumber(x,y)
     - will return the smaller number of two different numbers
     
-middleNumber()
+middleNumber(x,y,z)
     - will return the middle number of three different numbers
    
